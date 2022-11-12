@@ -1,4 +1,4 @@
 # simple-calculator
-Developed for an individual assignment.
-Basic arithmetic operations, works with decimals and parenthesis.
-Light and dark mode avaialable.
+One of my individual assignments.
+Facilitates basic arithmetic operations, works with decimals and parentheses.
+Light and dark modes avaialable.
